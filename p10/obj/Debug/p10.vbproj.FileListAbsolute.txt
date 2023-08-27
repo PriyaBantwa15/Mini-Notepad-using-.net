@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\p10\p10\bin\Debug\p10.exe.config
+C:\Users\1\source\repos\p10\p10\bin\Debug\p10.exe
+C:\Users\1\source\repos\p10\p10\bin\Debug\p10.pdb
+C:\Users\1\source\repos\p10\p10\bin\Debug\p10.xml
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.vbprojAssemblyReference.cache
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.Form1.resources
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.Form3.resources
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.Resources.resources
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.vbproj.GenerateResource.cache
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.vbproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.exe
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.xml
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.pdb
+C:\Users\1\source\repos\p10\p10\obj\Debug\p10.Form2.resources
